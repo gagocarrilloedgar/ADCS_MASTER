@@ -4,12 +4,12 @@ Quaternions, Euler angles and rodrigues paramter transformation library
 **Author:Gago, Edgar**
 **Date 07/11/2020**
 
-## Problem vaariables
+## Problem variables
 
 The following list accounts for the problem variables
 
 ...
-#theta: rotation angle [rad]
+theta: rotation angle [rad]
 e: axis vector [e1;e2;e3]
 R: associated rotation matrix [3,3]
 x: first euler angle (x, roll,theta)
