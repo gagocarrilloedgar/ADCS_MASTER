@@ -8,7 +8,7 @@ Quaternions, Euler angles and rodrigues paramter transformation library
 
 The following list accounts for the problem variables
 
-...
+```
 theta: rotation angle [rad]
 e: axis vector [e1;e2;e3]
 R: associated rotation matrix [3,3]
@@ -20,7 +20,7 @@ gp: rodriguess parameters [gp1;gp2;gp3];
 pp: modified rodriguess parameters [pp1;pp2;pp3];
 v: vector to rotate [v1;v2;v3]
 theta_v: fassociated vector angles [x,y,z]
-...
+```
 
 Please contact me to the following email if you find any mistake:
 
